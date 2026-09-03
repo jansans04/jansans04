@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jan Sans Domingo 👋</h1>
-<h3 align="center">Computer Engineering Student · AI & Full-Stack Development</h3>
+<h3 align="center">Computer Engineering Student</h3>
 
 <p align="center">
   <a href="https://jansans04.github.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-jansans04.github.io-FF7A45?style=flat-square"/></a>
