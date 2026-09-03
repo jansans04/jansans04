@@ -1,148 +1,137 @@
-<h1 align="center">
-  Hi There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" />, I'm Jan Sans Domingo
-</h1>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF7A45&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;FireForm+Founding+Developer;UN+Digital+Public+Good;Computer+Vision+%26+AI;Always+Building+Something" alt="Typing SVG" />
-</div>
+<h1 align="center">Hi, I'm Jan Sans Domingo 👋</h1>
+<h3 align="center">Computer Engineering Student · AI & Full-Stack Development</h3>
 
 <p align="center">
-  <a href="https://jansans04.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-jansans04.github.io-FF7A45?style=flat-square" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/jan-sans-domingo-599623339">
-    <img src="https://img.shields.io/badge/LinkedIn-Jan_Sans_Domingo-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=jansans04&theme=tokyonight&color=blue" alt="Profile views" />
+  <a href="https://jansans04.github.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-jansans04.github.io-FF7A45?style=flat-square"/></a>
+  <a href="https://linkedin.com/in/jan-sans-domingo-599623339" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sansdomingojan@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=jansans04&color=FF7A45&style=flat-square" alt="Profile views"/>
 </p>
 
-## <div align="center">💫 About Me</div>
+---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+### 🙋 About me
 
-<p align="left">
-  <ul>
-    <li>🎓 <b>Computer Science &amp; Engineering</b> student at <b>Universitat Autònoma de Barcelona (UAB)</b></li>
-    <li>🌴 <b>Exchange Student</b> at <b>UC Santa Cruz</b> (2025–2026)</li>
-    <li>🔥 <b>Founding member &amp; developer</b> of <b>FireForm</b>, a UN-recognized Digital Public Good — now developed through Google Summer of Code</li>
-    <li>🏆 <b>1st place</b>, Reboot the Earth Hackathon (United Nations + UCSC)</li>
-    <li>👮 Built a <b>RAG-powered AI chatbot</b> for the UCSC Police Department's public crime dashboard</li>
-    <li>🤖 Designed the vision pipeline &amp; solving algorithm behind <b>PuzzleBot</b>, an autonomous puzzle-solving robot</li>
-    <li>📊 Bachelor's thesis on computer-vision posture analysis, taking a rule-based system from 0% to 81–87% accuracy with a trained classifier</li>
-  </ul>
-</p>
+- 🎓 **Computer Science & Engineering** student at **Universitat Autònoma de Barcelona (UAB)**, 2022 – June 2026
+- 🌴 **Exchange Student** at **UC Santa Cruz** (2025–2026)
+- 🔥 **Founding member & developer** of **FireForm**, a UN-recognized Digital Public Good — now developed through Google Summer of Code
+- 🏆 **1st place**, Reboot the Earth Hackathon (United Nations + UCSC)
+- 👮 Built a **RAG-powered AI chatbot** for the UCSC Police Department's public crime dashboard
+- 🤖 Designed the vision pipeline & solving algorithm behind **PuzzleBot**, an autonomous puzzle-solving robot
+- 📊 Bachelor's thesis on computer-vision posture analysis, taking a rule-based system from 0% to 81–87% accuracy with a trained classifier
+- 🧗 Outside of code: rock climbing (competed in Los Angeles and elsewhere in California), running, and teaching myself piano
 
-```python
-class Engineer:
-    def __init__(self):
-        self.name = "Jan Sans Domingo"
-        self.focus = ["AI pipelines", "Computer Vision", "Full-Stack Systems", "Robotics"]
+---
 
-    def build(self):
-        return "Signal into decisions — voice into forms, video into feedback, questions into answers"
+### 🛠️ Technologies
 
-    def philosophy(self):
-        return "The hard part is rarely the model. It's the pipeline around it."
-```
+**Programming & Development**
 
-<br>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<div align="center">
+**Databases & Backend**
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> **Tech Stack**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
-### 🧠 **AI & Machine Learning**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
-</p>
+**AI / Machine Learning**
 
-### 🚀 **Languages & Core**
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,r" />
-</p>
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-6E56CF?style=flat-square)
 
-### 💻 **Web Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,php" />
-</p>
+**Cloud & Tools**
 
-### 🛠️ **Backend & Data**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,docker,gcp" />
-</p>
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 
-### 🔧 **Tools & Platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,opengl,raspberrypi" />
-</p>
+---
 
-</div>
+### 💻 Projects
 
-<br>
-
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="32px"> **What I'm Up To**
-
-```yaml
-🔭 Currently working on: TFG (posture analysis via computer vision) & the UCSC PD dashboard chatbot
-🌱 Contributing to: FireForm, now growing through Google Summer of Code
-👯 Looking to collaborate on: applied AI, computer vision & open-source robotics projects
-🏆 Proudest moment: 1st place at the UN Reboot the Earth Hackathon
-🎯 Looking for: internships & graduate roles in software engineering and applied AI
-```
-
-<br>
-
-## 💕 **Experience & Projects**
-
-<div align="left">
-
-**FireForm** - Founding Member & Developer | <span style="vertical-align: bottom;"><img src="https://img.shields.io/badge/Digital_Public_Good-FF7A45?style=flat-square" height="18" /> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" height="18" /></span>
-
+**[FireForm](https://github.com/fireform-core/FireForm)** — Founding Member & Developer
+![Digital Public Good](https://img.shields.io/badge/Digital_Public_Good-FF7A45?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 Open-source system that turns one voice memo into every incident-report form emergency responders need to file. 1st place at the UN Reboot the Earth Hackathon; officially a UN Digital Public Good, now developed through Google Summer of Code.
 
 ---
 
-**UCSC Police Department Dashboard + AI Chatbot** - Developer | <span style="vertical-align: bottom;"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="18" /> <img src="https://img.shields.io/badge/RAG-4285F4?style=flat-square&logo=googlegemini&logoColor=white" height="18" /></span>
-
-Fixed and extended a public Power BI crime-data dashboard for UCSC PD, and built a RAG-based chatbot that answers questions in natural language.
+**[UCSC Police Department Dashboard + AI Chatbot](https://police.ucsc.edu/crime-prevention/interactive-crime-log-and-map/)** — Developer
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![RAG](https://img.shields.io/badge/RAG-6E56CF?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+Fixed and extended a public Power BI crime-data dashboard for UCSC PD, and built a RAG-based chatbot that answers questions in natural language and can filter the dashboard directly. *(The live page above shows the dashboard as published by UCSC PD; it doesn't reflect our final version.)*
 
 ---
 
-**Body Posture Analysis System** - Bachelor's Thesis | <span style="vertical-align: bottom;"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="18" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="18" /></span>
-
+**[TFG — Body Posture Analysis System](https://github.com/jansans04/TFG-Sistema-danalisi-de-postura-corporal)** — Bachelor's Thesis
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 Computer-vision system scoring squat/push-up technique from 2D video. Took error detection from a 0%-accurate rule-based system to an 81–87%-accurate trained classifier.
 
 ---
 
-**PuzzleBot** - Software & Build | <span style="vertical-align: bottom;"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="18" /> <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" height="18" /></span>
-
+**[PuzzleBot](https://github.com/jansans04/puzzleBot)** — Software & Build
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 Autonomous puzzle-solving robot — owned the full vision-and-solving software stack and contributed to the physical build.
 
+---
+
+**[CSE 164 — Computer Vision Final Project](https://github.com/jansans04/CSE-164-CV-FinalProject)**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+Semi-supervised classification & segmentation system trained on a small labeled set plus a large pool of unlabeled images.
+
+---
+
+**[FoodSnap](https://github.com/jansans04/FoodSnap)**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+Ingredient detection program.
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jansans04&show_icons=true&hide_border=true&theme=dark&title_color=FF7A45&icon_color=FF7A45&text_color=c9d1d9&bg_color=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jansans04&show_icons=true&hide_border=true&title_color=FF7A45&icon_color=FF7A45">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=jansans04&show_icons=true&hide_border=true&title_color=FF7A45&icon_color=FF7A45">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jansans04&hide_border=true&theme=dark&stroke=FF7A45&ring=FF7A45&fire=FF6B6B&currStreakLabel=FF7A45&background=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jansans04&hide_border=true&stroke=FF7A45&ring=FF7A45&fire=FF6B6B&currStreakLabel=FF7A45">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jansans04&hide_border=true&stroke=FF7A45&ring=FF7A45&fire=FF6B6B&currStreakLabel=FF7A45">
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jansans04&layout=compact&hide_border=true&theme=dark&title_color=FF7A45&bg_color=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jansans04&layout=compact&hide_border=true&title_color=FF7A45">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jansans04&layout=compact&hide_border=true&title_color=FF7A45">
+  </picture>
 </div>
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; **GitHub Stats**
-
-<div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=jansans04&show_icons=true&theme=tokyonight&hide_border=true&background=0D1117&title_color=FF7A45&icon_color=FF7A45&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jansans04&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF7A45&ring=FF7A45&fire=FF6B6B&currStreakLabel=FF7A45" />
-</div>
-
-<div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jansans04&layout=compact&theme=tokyonight&hide_border=true&background=0D1117&title_color=FF7A45&text_color=FFFFFF" />
-</div>
-
-<br>
-
 <div align="center">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **Thanks for Visiting!**
+### Thanks for Visiting!
 
 **"The hard part is rarely the model. It's the pipeline around it."**
 
 📫 Let's connect on [LinkedIn](https://linkedin.com/in/jan-sans-domingo-599623339) · 🌐 [Portfolio](https://jansans04.github.io)
-
-<br>
 
 </div>
